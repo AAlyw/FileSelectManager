@@ -1,7 +1,7 @@
 package com.example.fileselectlibrary;
 
-public class testLibrary {
-    private String test(){
+public class TestLibrary {
+    public String test(){
         return "this is FileSelectManager";
     }
 }
